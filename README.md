@@ -1,6 +1,6 @@
-- 👋 Hi, I’m @m-lucas1611
+- 👋 Hi, I’m Paul
 - 👀 I’m interested in different language
-- 🌱 I’m currently learning Artificial intelligence
+- 🌱 I specialize in Artificial intelligence
 
 <!---
 m-lucas1611/m-lucas1611 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
